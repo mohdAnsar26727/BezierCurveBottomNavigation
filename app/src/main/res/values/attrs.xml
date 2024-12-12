@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BezierCurveBottomNavigation">
+        <attr name="iconColor" format="color" />
+        <attr name="selectedIconColor" format="color" />
+        <attr name="backgroundColor" format="color" />
+        <attr name="animationDuration" format="integer" />
+        <attr name="bezierCurveHeight" format="dimension" />
+        <attr name="bezierInnerWidthOffset" format="float" />
+        <attr name="bezierInnerHeight" format="dimension" />
+    </declare-styleable>
+</resources>
